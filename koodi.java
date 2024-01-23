@@ -7,3 +7,6 @@ Tekoäly2
 Tekoäly3
 
 Käytetään toteutettua nettiyhteyttä.
+
+void TulostetaanHeiSuomi() {
+  System.out.println("Hei, Suomi!");
